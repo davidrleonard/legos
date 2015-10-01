@@ -2,8 +2,8 @@
 
 The slide deck and handout here were originally created for a presentation at the 2015 Code for America Summit.
 
-* [Download the slides (PDF)]()
-* [Download the handout (PDF)]()
+* [Download the slides (PDF)](https://github.com/davidrleonard/legos/blob/master/slides-building-blocks-v3.pdf)
+* [Download the handout (PDF)](https://github.com/davidrleonard/legos/blob/master/handout-building-blocks-v3.pdf)
 
 ## Brief on the presentation
 
