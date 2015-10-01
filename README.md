@@ -9,9 +9,13 @@ The slide deck and handout here were originally created for a presentation at th
 
 Frustrated by missing deadlines and making things customers don't actually want? Interested in agile but don't know how to start using it in your organization? Follow along with step-by-step instructions to learn agile methodologies using LEGOs.
 
+## More agile resources
+
+Contributions are welcome! Add some resources and submit a [Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+
 ## Inspiration and credit
 
-This talk was given by [Amy Mok](http://github.com/amymok) (Developer at CFPB) and [David Leonard](http://github.com/davidrleonard) (Developer at Code for America). The legos exercise we used was inspired by ["How 90 minutes with Lego bricks taught these executives agile"](https://18f.gsa.gov/2015/08/31/how-playing-with-legos-taught-executives-agile/), by Zach Cohn and Dave Zvenyach at 18F.
+This talk was given by [Amy Mok](https://github.com/amymok) (Developer at CFPB) and [David Leonard](https://github.com/davidrleonard) (Developer at Code for America). The legos exercise we used was inspired by ["How 90 minutes with Lego bricks taught these executives agile"](https://18f.gsa.gov/2015/08/31/how-playing-with-legos-taught-executives-agile/), by Zach Cohn and Dave Zvenyach at 18F.
 
 ## How you can use it (license)
 
